@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>19</LINE></MAIN>
+  <RESET_LED><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>60</LINE></RESET_LED>
+  <SPEED_CHANGE><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>66</LINE></SPEED_CHANGE>
+  <OVERFLOW><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>89</LINE></OVERFLOW>
+  <INIT_INT><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>27</LINE></INIT_INT>
+  <INIT_IO><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>37</LINE></INIT_IO>
+  <INIT_TIMER><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>42</LINE></INIT_TIMER>
+  <FOREVERLOOP><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>56</LINE></FOREVERLOOP>
+  <SPEED_SLOW><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>80</LINE></SPEED_SLOW>
+  <CLEAR_LED><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>106</LINE></CLEAR_LED>
+  <SET_LED><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-08\Lab-08.asm</FILE><LINE>110</LINE></SET_LED>
+ </LABELS>
+</ASSEMBLER_INFO>

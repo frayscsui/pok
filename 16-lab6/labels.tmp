@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DATA><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.asm</FILE><LINE>16</LINE></DATA>
+  <init><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.asm</FILE><LINE>20</LINE></init>
+  <barisan><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.asm</FILE><LINE>48</LINE></barisan>
+  <forever><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.asm</FILE><LINE>105</LINE></forever>
+  <n_nol><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.asm</FILE><LINE>91</LINE></n_nol>
+  <n_satu><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.asm</FILE><LINE>95</LINE></n_satu>
+  <done><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-06\Lab-06.asm</FILE><LINE>98</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>

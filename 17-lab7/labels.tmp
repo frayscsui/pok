@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>29</LINE></MAIN>
+  <INIT_STACK><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>31</LINE></INIT_STACK>
+  <INIT_LCD_MAIN><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>42</LINE></INIT_LCD_MAIN>
+  <EXIT><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>39</LINE></EXIT>
+  <INIT_LCD><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>86</LINE></INIT_LCD>
+  <LOADBYTE_PHASE1><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>51</LINE></LOADBYTE_PHASE1>
+  <NEWLINE><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>63</LINE></NEWLINE>
+  <WRITE_TEXT><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>120</LINE></WRITE_TEXT>
+  <DELAY_01><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>143</LINE></DELAY_01>
+  <LOADBYTE_PHASE2><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>72</LINE></LOADBYTE_PHASE2>
+  <LOOP_LCD><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>83</LINE></LOOP_LCD>
+  <CLEAR_LCD><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>111</LINE></CLEAR_LCD>
+  <DELAY_00><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>133</LINE></DELAY_00>
+  <L0><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>137</LINE></L0>
+  <L1><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>147</LINE></L1>
+  <DELAY_02><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>154</LINE></DELAY_02>
+  <L2><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>158</LINE></L2>
+  <message><FILE>C:\Personal\Compsci-UI\Courses\2-POK\Lab\Lab-07\Tutorial-Lab.asm</FILE><LINE>169</LINE></message>
+ </LABELS>
+</ASSEMBLER_INFO>
